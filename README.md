@@ -8,5 +8,6 @@ Raw data from the paper (same data as in Supplementary files) are in the raw_dat
 
 # Output
 **allhits.csv**  -  This table contains all screen hits above a specified threshold as well as whether they are found in the BioGRID database or not.
+
 **allhits.eps**  -  This plot shows a histogram of the number of hits shared between random simulated datasets and the BioGRID interaction database.
 
