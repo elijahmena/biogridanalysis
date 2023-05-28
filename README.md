@@ -11,3 +11,6 @@ Raw data from the paper (same data as in Supplementary files) are in the raw_dat
 
 **allhits.eps**  -  This plot shows a histogram of the number of hits shared between random simulated datasets and the BioGRID interaction database.
 
+# License
+This project is licensed under the terms of the MIT license.
+
