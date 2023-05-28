@@ -1,4 +1,4 @@
-This repository includes the script for the BioGRID comparison that was performed in Timms, Mena, et al., 2023, Nature Cell Biology.
+This repository includes the all_comparison.R script that compares multiplex CRISPR screening hits to the BioGRID interaction database. This analysis was performed in Timms, Mena, et al., 2023, Nature Cell Biology.
 
 # Required software
 Analysis was performed using R 4.1.0 and uses the packages dplyr, ggplot2, stringr.
